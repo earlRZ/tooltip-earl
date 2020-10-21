@@ -3,6 +3,7 @@
  * User: ruiz
  * Date: 03-04-18
  * Time: 09:16 PM
+ *tooltip notifications to add to projects that use boostrat 4
  */
 
 var publicador = {
